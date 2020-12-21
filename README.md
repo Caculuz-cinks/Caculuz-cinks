@@ -1,16 +1,16 @@
-### Hi there 👋
+<h3>👋 Hi there! I'm Isaiah Adeleke</h3>
+<p>
+  <a href="https://twitter.com/aicaculuz">Twitter</a>  •
+  <a href="https://www.linkedin.com/in/isaiahadeleke/">LinkedIn</a>
+</p>
 
-<!--
-**Caculuz-cinks/Caculuz-cinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer who is passionate about building, I currently build Mobile apps with Flutter. I'm currently learning golang passively. I am actively looking for flutter developer roles.
+- 👨🏽‍💻 Currently building the mobile app for code clan, a community that trains newbie developers.
+- 👨🏽‍ Currently mentoring newbie mobile devs at code clan, a community of 600 developers.
+- 🌱 I’m currently learning Golang.
+- 👨🏽‍ I am the current lead at Binary Generation Labs, an organization that teaches students to code.
+- 🤝 Open for collaborations in Mobile apps with flutter framework.
+- ⚡ Fun fact: I'm passionate about entrepreneurship
+- 📫 How to reach me: [@aicaculuz](https://twitter.com/aicaculuz)
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
