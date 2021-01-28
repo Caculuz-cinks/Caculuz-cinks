@@ -29,4 +29,4 @@
 <a href="https://www.linkedin.com/in/isaiahadeleke/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/isaiahadeleke/" height="30" width="40" /></a>
 <a href="https://twitter.com/aicaculuz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aicaculuz" height="30" width="40" /></a> 
 </p>
-[
+
